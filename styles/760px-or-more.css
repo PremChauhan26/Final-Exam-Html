@@ -1,0 +1,27 @@
+@media screen and (max-width: 760px) {
+   
+    main {
+        width: 100%;
+    }
+
+    aside {
+        width: 100%;
+    }
+    #main-header {
+        height: 290px;
+    }
+
+    #main-header h1 {
+        font-size: 26pt;
+    }
+
+    #main-header h2 {
+        font-size: 20pt;
+    }
+
+    #main-content {
+        flex-direction: column;
+    }
+
+    
+}

@@ -1,0 +1,10 @@
+@media screen and (max-width: 560px) {
+   
+    main figure {
+        float: unset;
+        width: 100%;
+        gap: 0.5em;
+    }
+
+  
+}
